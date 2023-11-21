@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mateus Valério</h1>
 <h3 align="center">Computer Science Student at UnB (Universidade de Brasília)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerocass&label=Profile%20views&color=0e75b6&style=flat" alt="zerocass" /> </p>
+
 
 - 📫 How to reach me **mateusvalerio1@gmail.com**
 
@@ -16,4 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerocass&show_icons=true&locale=en&layout=compact" alt="zerocass" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerocass&show_icons=true&locale=en" alt="zerocass" /></p>
