@@ -42,4 +42,3 @@
 </details>
 
 
-![Snake animation](https://github.com/zerocass/zerocass/blob/output/github-contribution-grid-snake.svg)
